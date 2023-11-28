@@ -1,5 +1,7 @@
 # Emotion-Recognition
 
+Developed by : Beka Rukhaia, Giorgi Gugeshashvili, Tonmoy Chakraborty
+
 # Overview
 The primary objective of this project is to develop a prototype for an emotion recognition system implemented using Jupyter Notebook. The prototype should be capable of detecting a person's face and accurately recognizing their emotion from an image. The prototype aims to serve as a foundational demonstration for the full-scale implementation of the emotion recognition system.
 
