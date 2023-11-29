@@ -34,13 +34,22 @@ To accomplish those goals, there were used various famous techniques in machine 
 
 
 
-# Instructions
-To ensure you can use it, follow the instructions:
+# Intsructions to run the app
+![](Instructions_commands.png)
 
-Ensure that you have the following software installed:
+# Versions 
+asgiref==3.4.1
+joblib==1.1.0
+numpy==1.21.4
+opencv-python-headless==4.5.4.60
+Pillow==8.4.0
+pytz==2021.3
+scikit-learn==1.0.1
+scipy==1.7.3
+sklearn==0.0
+sqlparse==0.4.2
+threadpoolctl==3.0.0
 
-- Python (version 3)
-- Jupyter Notebook
 Clone the repository:
 
 git clone https://github.com/bruxaia/Emotion-Recognition.git
