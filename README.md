@@ -22,7 +22,7 @@ The language used to write the code is Python and you can see all the code detai
 
 # Outputs
 These screenshots show the result of the ouput of the code, using different image processing and machine learning algorithms to identify the face and emotion of the person.
-To accomplish those goals, there were used various famous techniques in machine learning and computer vision, such as: cascade classifiers for object detection, image processing with openCV library, there were used different models which we trained on the pre-provided images. Since finding and understanding ML as a whole was difficult, we used helper udemy course, which helped to train our model for the emotion and face recognition.
+To accomplish those goals, there were used various famous techniques in machine learning and computer vision, such as: cascade classifiers for object detection, image processing with openCV library, there were used different models which we trained on the pre-provided images. Since finding and understanding ML as a whole was difficult, we used helper YouTube course, which helped to train our model for the emotion and face recognition.
 
 <img width="410" alt="Screenshot 2023-11-27 at 11 19 52 PM" src="https://github.com/bruxaia/Emotion-Recognition/assets/122949438/d6efd994-7d48-4e7f-a485-30b738695250">
 <img width="606" alt="Screenshot 2023-11-27 at 11 20 02 PM" src="https://github.com/bruxaia/Emotion-Recognition/assets/122949438/ac4f6857-8f47-4411-b634-17b754001314">
